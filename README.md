@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bleyom</h1>
-<h3 align="center">Linux Enthusiastic</h3>
+<h3 align="center">Linux Enthusiast.</h3>
 
 - 🌱 I’m currently learning **bash**
 
