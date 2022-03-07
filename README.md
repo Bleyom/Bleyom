@@ -66,6 +66,7 @@ echo -ne "Window manager used is ${blue}${wm}${end}\n"
 
 
 ```
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yuwht3vz2pe6qtz99fif9wosc)2
 
 ### Ciao 👋
 ![](https://i.imgur.com/qnVh20t.jpg)
