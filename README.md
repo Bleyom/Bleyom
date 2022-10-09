@@ -1,6 +1,5 @@
 Bleyom 😎
-
-Hi, I'm Bleyom i have 18 year old, I work as Sysadmin i have a few (2) year of experience, I'm a linux geek 🤍, I Realy like ricing (Customize my Operating System), I use Arch (btw)
+![header.png](header.png)
 
 ### Ok Gang Member 😎😎😎
 
